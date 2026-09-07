@@ -24,6 +24,9 @@ A responsive personal portfolio website created using HTML, CSS, and JavaScript 
 - CSS3
 - JavaScript
 
+## Demo
+https://lnkd.in/p/gcC4agHv
+
 ## What I Learned
 
 - Improved my HTML and CSS skills.
